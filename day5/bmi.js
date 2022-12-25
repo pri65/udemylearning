@@ -1,7 +1,7 @@
 function bmi(weight,height) {
     var x = weight;
     var y = height*height;
-    return (x/y);
+    return (Math.round(x/y));
 }
-
-bmi(65,1.8);
+ var BMI = bmi(65,1.8);
+ console.log(BMI);

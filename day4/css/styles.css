@@ -1,0 +1,19 @@
+
+body {
+    margin: 0;
+}
+h1 {
+    margin-top: 0;
+}
+.top {
+    background-color:#E8C4C4;
+}
+
+.middle {
+height: 200px;
+background-color: #CE7777;
+}
+.bottom {
+    height: 200px;
+    background-color: #2B3A55;
+}
